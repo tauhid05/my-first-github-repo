@@ -1,0 +1,45 @@
+body{
+    // <uniquifier>: Use a unique and descriptive class name
+    // <weight>: Use a value from 100 to 900
+    
+    .work-sans-<uniquifier> 
+      font-family: "Work Sans", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+    
+}
+
+
+.header{
+    background-image: url('../images/banner/banner3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.header-banner{
+    text-align: right;
+    padding: 216px 230px 165px 845px;
+}
+.banner-title{
+    color: #FFF;
+text-align: right;
+font-size: 65px;
+font-weight: 700;
+padding-top: 216px;
+margin-bottom: 24px;
+}
+.banner-description{
+    color: #FFFFFF;
+text-align: right;
+font-size: 16px;
+font-weight: 400;
+margin-bottom: 32px;
+margin-left: 24px;
+}
+.btn-primary{
+    border-radius: 5px;
+background: #FFF;
+padding: 20px 25px;
+color: #005FAC;
+}
