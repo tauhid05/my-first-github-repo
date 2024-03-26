@@ -119,3 +119,45 @@ font-size: 40px;
 font-weight: 700;
 margin-bottom: 24px;
   }
+  .footer{
+    background: #151414;
+    display: flex;
+    padding: 130px 230px;
+  }
+  .footer-g{
+    margin-right: 330px;
+  }
+  .footer-title{
+    color: #F8F8F8;
+font-size: 45px;
+font-weight: 700;
+margin-bottom: 16px;
+  }
+  .footer-para{
+    color: #FFF;
+font-size: 16px;
+font-weight: 400;
+margin-bottom: 20px;
+  }
+  .anchor{
+    margin-right: 10px;
+  }
+  .footer-header{
+    color: #FFF;
+font-size: 25px;
+font-weight: 600;
+margin-bottom: 30px;
+  }
+  .form{
+    margin-bottom: 16px;
+    border-radius: 8px;
+border: 1px solid #FFF;
+background: #151414;
+border: none;
+  }
+  .btn-secondary{
+    border-radius: 8px;
+background: #005FAC;
+padding: 20px 35px;
+color: #FFFFFF;
+}
